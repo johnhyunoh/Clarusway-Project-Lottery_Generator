@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: auto;
+    text-align: center;
+    height: 100%;
+    background: orange;
+}
+
+h1 {
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+
+.container {
+    margin-top: 150px;
+    margin-bottom: 30px;   
+    background: white;
+    padding-bottom: 50px;
+    width: 800px;
+    display: inline-block;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+hr {
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+input {
+    padding-left: 10px;
+}
+
+.tickets {
+    margin-top: 30px;
+}
